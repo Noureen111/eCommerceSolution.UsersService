@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\DotNet\\eCommerceSolution.UsersService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\DotNet\\eCommerceSolution.UsersService\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD458B-7EAA-4F51-B6D0-066976E9F145}|eCommerce.Core\\eCommerce.Core.csproj|d:\\dotnet\\ecommercesolution.usersservice\\ecommerce.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FD458B-7EAA-4F51-B6D0-066976E9F145}|eCommerce.Core\\eCommerce.Core.csproj|solutionrelative:ecommerce.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379BD2D7-08D0-4E10-B8DC-0DC8877BE329}|eCommerce.API\\eCommerce.API.csproj|d:\\dotnet\\ecommercesolution.usersservice\\ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379BD2D7-08D0-4E10-B8DC-0DC8877BE329}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{28FD458B-7EAA-4F51-B6D0-066976E9F145}|eCommerce.Core\\eCommerce.Core.csproj|d:\\dotnet\\ecommercesolution.usersservice\\ecommerce.core\\mappers\\applicationusermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28FD458B-7EAA-4F51-B6D0-066976E9F145}|eCommerce.Core\\eCommerce.Core.csproj|solutionrelative:ecommerce.core\\mappers\\applicationusermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{28FD458B-7EAA-4F51-B6D0-066976E9F145}|eCommerce.Core\\eCommerce.Core.csproj|d:\\dotnet\\ecommercesolution.usersservice\\ecommerce.core\\dto\\genderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28FD458B-7EAA-4F51-B6D0-066976E9F145}|eCommerce.Core\\eCommerce.Core.csproj|solutionrelative:ecommerce.core\\dto\\genderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{379BD2D7-08D0-4E10-B8DC-0DC8877BE329}|eCommerce.API\\eCommerce.API.csproj|d:\\dotnet\\ecommercesolution.usersservice\\ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{379BD2D7-08D0-4E10-B8DC-0DC8877BE329}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{379BD2D7-08D0-4E10-B8DC-0DC8877BE329}|eCommerce.API\\eCommerce.API.csproj|d:\\dotnet\\ecommercesolution.usersservice\\ecommerce.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{28FD458B-7EAA-4F51-B6D0-066976E9F145}|eCommerce.Core\\eCommerce.Core.csproj|d:\\dotnet\\ecommercesolution.usersservice\\ecommerce.core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28FD458B-7EAA-4F51-B6D0-066976E9F145}|eCommerce.Core\\eCommerce.Core.csproj|solutionrelative:ecommerce.core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28FD458B-7EAA-4F51-B6D0-066976E9F145}|eCommerce.Core\\eCommerce.Core.csproj|d:\\dotnet\\ecommercesolution.usersservice\\ecommerce.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28FD458B-7EAA-4F51-B6D0-066976E9F145}|eCommerce.Core\\eCommerce.Core.csproj|solutionrelative:ecommerce.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28FD458B-7EAA-4F51-B6D0-066976E9F145}|eCommerce.Core\\eCommerce.Core.csproj|d:\\dotnet\\ecommercesolution.usersservice\\ecommerce.core\\servicecontracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,19 +87,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\DotNet\\eCommerceSolution.UsersService\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\DotNet\\eCommerceSolution.UsersService\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-13T17:03:46.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ApplicationUserMappingProfile.cs",
               "DocumentMoniker": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.Core\\Mappers\\ApplicationUserMappingProfile.cs",
               "RelativeDocumentMoniker": "eCommerce.Core\\Mappers\\ApplicationUserMappingProfile.cs",
-              "ToolTip": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.Core\\Mappers\\ApplicationUserMappingProfile.cs*",
-              "RelativeToolTip": "eCommerce.Core\\Mappers\\ApplicationUserMappingProfile.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ToolTip": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.Core\\Mappers\\ApplicationUserMappingProfile.cs",
+              "RelativeToolTip": "eCommerce.Core\\Mappers\\ApplicationUserMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-11T18:52:59.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "eCommerce.API\\Properties\\launchSettings.json",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "eCommerce.API\\appsettings.Development.json",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "eCommerce.API\\Controllers\\AuthController.cs",
@@ -131,19 +148,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.Core\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "eCommerce.Core\\Services\\UserService.cs",
               "ToolTip": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.Core\\Services\\UserService.cs",
               "RelativeToolTip": "eCommerce.Core\\Services\\UserService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAWwBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T15:33:34.274Z"
+              "WhenOpened": "2025-10-11T15:33:34.274Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.Core\\ServiceContracts\\IUserService.cs",
               "RelativeDocumentMoniker": "eCommerce.Core\\ServiceContracts\\IUserService.cs",
@@ -155,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "eCommerce.Infrastructure\\Repositories\\UserRepository.cs",
@@ -167,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.Core\\RepositoryContracts\\IUserRepository.cs",
               "RelativeDocumentMoniker": "eCommerce.Core\\RepositoryContracts\\IUserRepository.cs",
@@ -179,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "AuthenticationResponse.cs",
               "DocumentMoniker": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.Core\\DTO\\AuthenticationResponse.cs",
               "RelativeDocumentMoniker": "eCommerce.Core\\DTO\\AuthenticationResponse.cs",
@@ -191,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "GenderOptions.cs",
               "DocumentMoniker": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.Core\\DTO\\GenderOptions.cs",
               "RelativeDocumentMoniker": "eCommerce.Core\\DTO\\GenderOptions.cs",
@@ -203,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "RegisterRequest.cs",
               "DocumentMoniker": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.Core\\DTO\\RegisterRequest.cs",
               "RelativeDocumentMoniker": "eCommerce.Core\\DTO\\RegisterRequest.cs",
@@ -215,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.Core\\DTO\\LoginRequest.cs",
               "RelativeDocumentMoniker": "eCommerce.Core\\DTO\\LoginRequest.cs",
@@ -227,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.Core\\Entities\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "eCommerce.Core\\Entities\\ApplicationUser.cs",
@@ -240,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ExceptionHandlingMiddleware.cs",
               "DocumentMoniker": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
               "RelativeDocumentMoniker": "eCommerce.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
@@ -252,19 +270,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.API\\Program.cs",
               "RelativeDocumentMoniker": "eCommerce.API\\Program.cs",
               "ToolTip": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.API\\Program.cs",
               "RelativeToolTip": "eCommerce.API\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA8AAABdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T09:14:26.599Z"
+              "WhenOpened": "2025-10-11T09:14:26.599Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.Core\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "eCommerce.Core\\DependencyInjection.cs",
@@ -276,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "eCommerce.Infrastructure\\DependencyInjection.cs",

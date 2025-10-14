@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\TECHNOSELLERS\\.nuget\\packages\\": {},
+    "C:\\Users\\Spursol-Gul Noureen\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.API\\eCommerce.API.csproj",
+      "projectUniqueName": "D:\\Dotnet\\E-Commerce\\eCommerce.API\\eCommerce.API.csproj",
       "projectName": "eCommerce.API",
-      "projectPath": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.API\\eCommerce.API.csproj",
-      "packagesPath": "C:\\Users\\TECHNOSELLERS\\.nuget\\packages\\",
-      "outputPath": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.API\\obj\\",
+      "projectPath": "D:\\Dotnet\\E-Commerce\\eCommerce.API\\eCommerce.API.csproj",
+      "packagesPath": "C:\\Users\\Spursol-Gul Noureen\\.nuget\\packages\\",
+      "outputPath": "D:\\Dotnet\\E-Commerce\\eCommerce.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\TECHNOSELLERS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Spursol-Gul Noureen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -711,17 +711,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.Core\\eCommerce.Core.csproj": {
-              "projectPath": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.Core\\eCommerce.Core.csproj"
+            "D:\\Dotnet\\E-Commerce\\eCommerce.Core\\eCommerce.Core.csproj": {
+              "projectPath": "D:\\Dotnet\\E-Commerce\\eCommerce.Core\\eCommerce.Core.csproj"
             },
-            "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj": {
-              "projectPath": "D:\\DotNet\\eCommerceSolution.UsersService\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj"
+            "D:\\Dotnet\\E-Commerce\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj": {
+              "projectPath": "D:\\Dotnet\\E-Commerce\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj"
             }
           }
         }
@@ -735,8 +736,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -770,7 +770,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
