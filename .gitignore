@@ -2,5 +2,70 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-*.json
-/.vs/eCommerceSolution.UsersService
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# User-specific files
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.jfm
+
+# Visual Studio
+.vs/
+.vscode/
+*.code-workspace
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+.nuget/
+
+# Azure build/publish
+PublishProfiles/
+*.pubxml
+*.publishproj
+
+# Configuration / secrets
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+secrets.json
+.env
+.env.*
+
+# Entity Framework migrations snapshots
+*MigrationsSnapshot.cs
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and test artifacts
+*.coverage
+*.coveragexml
+*.testsettings
+*.trx
+coverage/
+BenchmarkDotNet.Artifacts/
+
+# Docker
+*.pid
+docker-compose.override.yml
+
+# Local tools / backups
+*.bak
+*.old
+*.orig
+tools/
+.local/
+
+# Ignore protobuf generated files (optional)
+# *.g.cs
+# *.pb.cs
