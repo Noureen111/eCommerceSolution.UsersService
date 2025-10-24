@@ -3,6 +3,9 @@ using eCommerce.Core;
 using eCommerce.API.Middlewares;
 using System.Text.Json.Serialization;
 using eCommerce.Core.Mappers;
+using FluentValidation;
+
+
 
 var builder = WebApplication.CreateBuilder(args);
 

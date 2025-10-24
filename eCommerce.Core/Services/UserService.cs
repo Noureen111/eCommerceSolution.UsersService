@@ -28,16 +28,6 @@ public class UserService: IUserService
 
     public async Task<AuthenticationResponse?> Register(RegisterRequest registerRequest)
     {
-        //Creat a new application object from RegisterRequest
-        //ApplicationUser user = new ApplicationUser()
-        //{
-        //    UserID = Guid.NewGuid(),
-        //    Email = registerRequest.Email,
-        //    Password = registerRequest.Password,
-        //    PersonName = registerRequest.PersonName,
-        //    Gender = registerRequest.Gender.ToString()
-        //};
-
         ApplicationUser user = _mapper.Map<ApplicationUser>(registerRequest);
         user.UserID = Guid.NewGuid();
         ApplicationUser registeredUser = await _userRepository.AddUser(user);
