@@ -1,5 +1,6 @@
 ﻿using eCommerce.Core.ServiceContracts;
 using eCommerce.Core.Services;
+using eCommerce.Core.Validators;
 using FluentValidation;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -20,7 +21,7 @@ public static class DependencyInjection
         services.AddTransient<IUserService, UserService>();
 
         //All the Validators from the assembly containing SampleValidator will automatically registered here
-        //services.AddValidatorsFromAssemblyContaining<SampleValidator>();
+        services.AddValidatorsFromAssemblyContaining<LoginRequestValidator>();
         return services;
     }
 }
