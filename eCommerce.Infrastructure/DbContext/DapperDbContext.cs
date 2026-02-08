@@ -15,7 +15,7 @@ public class DapperDbContext
         string connectionStringTemplate = _configuration.GetConnectionString("PostrgresConnection")!;
         string connectionString = connectionStringTemplate
             .Replace("$POSTGRES_HOST", Environment.GetEnvironmentVariable("POSTGRES_HOST"))
-            .Replace("$POSTGRES_PASSWORD", Environment.GetEnvironmentVariable("POSTRGRES_PASSWORD"));
+            .Replace("$POSTGRES_PASSWORD", Environment.GetEnvironmentVariable("POSTGRES_PASSWORD"));
 
         //Create new NpgsqlConnection using connection string
         _connection = new NpgsqlConnection(connectionString);
